@@ -1,1 +1,1 @@
-### Check the [MagicZoom.js Wiki](https://github.com/RodrigoJimenezGarcia/JQueryMagicZoom/wiki/Home-Wiki)
+### Check the [MagicZoom.js Wiki](https://github.com/RodrigoJimenezGarcia/JQueryMagicZoom/wiki/Basic-usage)
