@@ -1,0 +1,31 @@
+{
+  "name": "magiczoom",
+  "version": "1.0.0",
+  "title": "MagicZoom",
+  "author": {
+    "name": "Rodrigo Jiménez",
+    "url": "http://artdroidev.com/contact.html"
+  },
+  "licenses":[{
+    "type": "MIT",
+    "url": "http://artdroidev.com/license.html"
+  }],
+  "dependencies":{
+    "jquery": ">=1.11.3"
+  },
+  "description":"Easy zoom images with mouse and touch events, compatible with bootstrap.",
+  "keywords":[
+    "zoom",
+    "image",
+    "scroll",
+    "touch",
+    "bootstrap",
+    "responsive",
+    "scale"
+  ],
+  "homepage": "http://artdroidev.com",
+  "docs": "http://artdroidev.com/advanceddocs.html",
+  "demo":"http://artdroidev.com/index.html",
+  "download":"http://artdroidev.com/download.html",
+  "bugs":"https://github.com/RodrigoJimenezGarcia/JQueryMagicZoom/issues"
+}
